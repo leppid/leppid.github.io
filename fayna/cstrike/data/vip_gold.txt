@@ -1,0 +1,25 @@
+[ru]
+NO_VIP_CHAT = !g[!teamVIP!g] !teamТы !yне !gVIP !
+NO_VIP_HUD = Ты не вип
+VIP_OFF = !g[!teamVIP!g] !teamВыключен !yна этой !gкарте !
+DEAD_VIP = !g[!teamVIP!g]!y Ты!team Мёртв !y! 
+VIP_NO_USE_IN_ROUND = !g[!teamVIP!g]!y Доступно с !g%d !y раунда,сейчас :!team %d !yраунд
+TIME_IS_UP = !g[!teamVIP!g] !y Только в !teamпервые !g%d секунд !y!
+VIP_USED_WEAPON = !g[!teamVIP!g] !y Ты уже !teamбрал !gоружие !y!
+VIP_DELAY_AWP = !g[!teamVIP!g] !y Доступно 1 раз в %d раунда !y ,через !g %d раунда !team повтори !
+VIP_SELECT_WEAPON = !g[!teamVIP!g] !y Выбери !gстиль !teamоружия !y!
+DMG_MESSAGENOADD = Нет бонусного урона
+DMG_MESSAGE = Урон взятого оружия %d%
+
+[en]
+NO_VIP_CHAT = !g[!teamVIP!g] !teamТы !yне !gVIP !
+NO_VIP_HUD = Ты не вип
+VIP_OFF = !g[!teamVIP!g] !teamВыключен !yна этой !gкарте !
+DEAD_VIP = !g[!teamVIP!g]!y Ты!team Мёртв !y! 
+VIP_NO_USE_IN_ROUND = !g[!teamVIP!g]!y Доступно с !g%d !y раунда,сейчас :!team %d !yраунд
+TIME_IS_UP = !g[!teamVIP!g] !y Только в !teamпервые !g%d секунд !y!
+VIP_USED_WEAPON = !g[!teamVIP!g] !y Ты уже !teamбрал !gоружие !y!
+VIP_DELAY_AWP = !g[!teamVIP!g] !y Доступно 1 раз в %d раунда !y ,через !g %d раунда !team повтори !
+VIP_SELECT_WEAPON = !g[!teamVIP!g] !y Выбери !gстиль !teamоружия !y!
+DMG_MESSAGENOADD = Нет бонусного урона
+DMG_MESSAGE = Урон взятого оружия %d%

@@ -1,0 +1,14 @@
+//overview description file for fy_woods.bsp
+
+global
+{
+	ZOOM	3.09
+	ORIGIN	160.50        -369.50 	       -82
+	ROTATED 0
+}
+
+layer
+{
+	IMAGE	"overviews/fy_woods.tga"
+	HEIGHT	-932
+} 

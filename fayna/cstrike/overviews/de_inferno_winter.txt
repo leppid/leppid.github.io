@@ -1,0 +1,14 @@
+// overview description file for de_inferno_winter.bsp
+
+global 
+{
+	ZOOM	1.39
+	ORIGIN	404 	1041	-417
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_inferno_winter.bmp"
+	HEIGHT	-417
+}
